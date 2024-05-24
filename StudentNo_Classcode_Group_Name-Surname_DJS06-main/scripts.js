@@ -31,7 +31,8 @@ console.log(provinces)
 const removecape = provinces.filter(province => !province.includes('Cape'));
 console.log(removecape)
 
-
+const hasS = names.map(name => name.includes('s')).some(hasS => hasS)
+console.log(s)
 
 
 
