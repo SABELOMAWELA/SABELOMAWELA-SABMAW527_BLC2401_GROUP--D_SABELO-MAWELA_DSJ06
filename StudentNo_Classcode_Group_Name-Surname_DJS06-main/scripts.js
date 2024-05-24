@@ -25,7 +25,11 @@ provinces.map(province => console.log(province.toUpperCase()))
 
 provinces.map(province => console.log(province.length))
 
+provinces.sort()
+console.log(provinces)
 
+const removecape = provinces.filter(province => !province.includes('Cape'));
+console.log(removecape)
 
 
 
