@@ -21,6 +21,9 @@ provinces.forEach(province => console.log(province))
 names.forEach((name, index) => console.log(name, provinces[index]));
 
 
+provinces.map(province => console.log(province.toUpperCase()))
+
+provinces.map(province => console.log(province.length))
 
 
 
@@ -28,6 +31,5 @@ names.forEach((name, index) => console.log(name, provinces[index]));
 
 
 
- names||provinces.forEach(function(mixed){
-   console.log(mixed)
-  })
+
+
