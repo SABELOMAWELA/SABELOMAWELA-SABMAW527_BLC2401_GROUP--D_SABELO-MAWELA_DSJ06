@@ -48,6 +48,7 @@ For these exercises, wrap your logic in a single `console.log` statement:
 5. **Find Extremes in Prices**: Identify the highest and lowest-priced items, returning a string formatted as "Highest: X. Lowest: Y."
 6. **Object Transformation**: Using `Object.entries` and `reduce`, recreate the products object with keys 'name' and 'cost', maintaining their original values.
 
+
 #### Submission Guidelines
 
 - Submit the completed JavaScript file(s) containing your solutions.
